@@ -1,0 +1,6 @@
+{
+  "name": "Faded By Cash",
+  "description": "Premium barbershop website concept for Faded By Cash in Garland, TX. Precision cuts, clean fades, and luxury grooming by Cash. Concept by KK MARTECH.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
